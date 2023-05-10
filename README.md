@@ -1,8 +1,8 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Nate Mueller</h1>
 <h3 align="center">A passionate frontend developer from San Jose, CA</h3>
 
-- 🔭 I’m currently working on **developing my portfolio.**
+- 🔭 I’m currently working on **apply my expertise in audio, music and education to Front End Web Development.**
 
 - 🌱 I’m currently learning **Javascript, React, and Redux.**
 
@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio2-nine-olive.vercel.app/#about](https://portfolio2-nine-olive.vercel.app/#about)
 
-- 💬 Ask me about **React, Javascript, HTML.**
+- 💬 Ask me about **React, Javascript, Ableton, Music.**
 
 - 📫 How to reach me **nmueller855@gmail.com**
 
-- ⚡ Fun fact **I play guitar, and bass in funk/r&b styles.**
+- ⚡ Fun fact **I play guitar, and bass in funk/r&b styles.  One of my songs was featured on Modern Family.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
