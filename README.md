@@ -1,5 +1,5 @@
 
-<h1 align="center">What's going on? 👋, I'm Nate Mueller</h1>
+<h1 align="center">What's up? 👋, I'm Nate Mueller</h1>
 <h3 align="center">A passionate frontend developer from San Jose, CA</h3>
 
 - 🔭 I’m currently working on **applying my expertise in audio, music and education to front end web apps.**
