@@ -2,7 +2,7 @@
 <h1 align="center">What's going on? 👋, I'm Nate Mueller</h1>
 <h3 align="center">A passionate frontend developer from San Jose, CA</h3>
 
-- 🔭 I’m currently working on **applying my expertise in audio, music and education to a new chapter in Front End Web Development.**
+- 🔭 I’m currently working on **applying my expertise in audio, music and education to Front End Web Development apps.**
 
 - 🌱 I’m currently learning **Javascript, React, and Redux.**
 
