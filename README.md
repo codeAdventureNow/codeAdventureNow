@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio2-nine-olive.vercel.app/#about](https://portfolio2-nine-olive.vercel.app/#about)
 
-- 💬 Ask me about **React, Javascript, Ableton, Music, Audio.**
+- 💬 Ask me about **React, Javascript, Ableton, Music, Guitar, Audio.**
 
 - 📫 How to reach me **nmueller855@gmail.com**
 
