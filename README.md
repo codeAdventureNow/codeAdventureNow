@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **teams as a front-end web developer.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio2-nine-olive.vercel.app/#about](https://portfolio2-nine-olive.vercel.app/#about)
+- 👨‍💻 All of my projects are available at [https://portfolio2-codeadventurenow.vercel.app/](https://portfolio2-codeadventurenow.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, Ableton, Music, Guitar, & Audio.**
 
