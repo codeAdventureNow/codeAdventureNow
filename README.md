@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **applying my expertise in audio, music, and education to front-end web apps.**
 
-- 🌱 I’m currently learning **Javascript, React, TypeScript, Redux, and how to be a father.**
+- 🌱 I’m currently learning **Javascript, React, TypeScript, Next.js, and how to be a father.**
 
 - 👯 I’m looking to collaborate on **teams as a front-end web developer.**
 
